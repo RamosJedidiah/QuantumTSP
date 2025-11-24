@@ -29,3 +29,5 @@ https://github.com/ppoffice/ant-colony-tsp
 
 **Genetic Algorithm:**
 https://github.com/hassanzadehmahdi/Traveling-Salesman-Problem-using-Genetic-Algorithm
+
+The code implementations were modified for this project.
