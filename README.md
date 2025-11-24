@@ -4,7 +4,7 @@
 **Jedidiah T. Ramos**
 
 ## Abstract
-A [classical algorithm](QuantumTSP/TSPArithmeticSeriesPartialSolver.py) is tested against hybrid quantum annealers for special cases of the Traveling Salesman Problem where the weights of the edges in a graph form an arithmetic progression. The classical algorithm, Christofides, Nearest Neighbor, Simulated Annealing, Ant Colony Optimization, Genetic Algorithm, and hybrid quantum annealers are also tested on the Euclidean Traveling Salesman Problem. The hybrid quantum annealers never outperformed the classical algorithm within its specified scope but outperformed all classical algorithms and heuristics for the Euclidean Traveling Salesman Problem before being overtaken at larger problem sizes.
+A [classical algorithm](./TSPArithmeticSeriesPartialSolver.py) is tested against hybrid quantum annealers for special cases of the Traveling Salesman Problem where the weights of the edges in a graph form an arithmetic progression. The classical algorithm, Christofides, Nearest Neighbor, Simulated Annealing, Ant Colony Optimization, Genetic Algorithm, and hybrid quantum annealers are also tested on the Euclidean Traveling Salesman Problem. The hybrid quantum annealers never outperformed the classical algorithm within its specified scope but outperformed all classical algorithms and heuristics for the Euclidean Traveling Salesman Problem before being overtaken at larger problem sizes.
 
 ## Code Implementation Sources
 The code implementations for D-Wave, Prim's algorithm (for 1-tree lower bounds), the Christofides algorithm, Simulated Annealing, Ant Colony Optimization, and Genetic Algorithm are from the following GitHub repositories.
