@@ -39,6 +39,10 @@ https://github.com/hassanzadehmahdi/Traveling-Salesman-Problem-using-Genetic-Alg
 
 The code implementations were modified for this project.
 
+Christofides is run 5 times because its code implementation is not deterministic. Odd-degree vertices are randomly shuffled to find minimum weight perfect matchings.
+
+Nearest Neighbor is run n times to try every vertex as a starting point.
+
 Simulated Annealing runs until it reaches the stopping temperature or stopping iteration of n * 100.
 
 Ant Colony Optimization runs with 20 ants for 10 generations. In the first generation, the first three ants are initialized with the best initial tour from the classical algorithm for arithmetic series, the Christofides algorithm, and the Nearest Neighbor algorithm, where the sequence of vertices is rotated for some ants. For some variables in the code, errors can happen if their values become too large, so they are set to the maximum float value in those cases.
