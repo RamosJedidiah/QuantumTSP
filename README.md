@@ -54,8 +54,8 @@ Experimental results are available in the following files in the form of origina
 
 **Special TSP (Arithmetic Series):**
 - Text file of arithmetic series TSP data
-- [Spreadsheet of arithmetic series TSP data](QuantumTSP/Experimental Data/Arithmetic Series TSP Data.xlsx)
+- [Spreadsheet of arithmetic series TSP data](/ExperimentalData/ArithmeticSeriesTSPData.xlsx)
 
 **Euclidean TSP**
 - Text file of Euclidean TSP data
-- [Spreadsheet of Euclidean TSP data](QuantumTSP/Experimental Data/Euclidean TSP Data.xlsx)
+- [Spreadsheet of Euclidean TSP data](/ExperimentalData/EuclideanTSPData.xlsx)
