@@ -16,7 +16,7 @@ In the first phase, the [classical algorithm](./TSPArithmeticSeriesForExperiment
 
 In the [second phase](./quantumtsp.py), the [classical algorithm](./EuclideanTSPArithmeticSeriesForExperiment.py), [Christofides](./ChristofidesAlgorithm.py), [Nearest Neighbor](./NearestNeighborHeuristics.py), [Simulated Annealing](./SimulatedAnnealing.py), [Ant Colony Optimization](./AntColonyOptimization.py), [Genetic Algorithm](./TSPGeneticAlgorithm.py), and D-Wave's LeapHybridNLSampler are tested against each other on the [Euclidean Traveling Salesman Problem](./EuclideanTSPHeuristics.py), where n points in two dimensions are [randomly generated](./RandomPointsGenerator.py), with every coordinate being an integer at least 0 and at most 5000. For more experimental data in the second phase, the average difference, variance of differences, and standard deviation of differences between consecutive sorted edge weights are [computed](./ArithmeticSeriesMeasurement.py).
 
-## Code Implementation Sources
+## Code Implementations
 The code implementations for D-Wave, Prim's algorithm (for [1-tree lower bounds](./OneTreeLowerBound.py)), the Christofides algorithm, Simulated Annealing, Ant Colony Optimization, and Genetic Algorithm are from the following GitHub repositories.
 
 **DWAVE Traveling Salesperson Example:**
