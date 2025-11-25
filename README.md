@@ -11,7 +11,9 @@ Given a symmetric adjacency matrix for an n-vertex undirected graph with positiv
 
 ## Two Phases of Experiments
 There are two phases of experiments.
+
 In the first phase, the [classical algorithm](./TSPArithmeticSeriesForExperiment.py) is tested against D-Wave's LeapHybridNLSampler.
+
 In the [second phase](./quantumtsp.py), the [classical algorithm](./EuclideanTSPArithmeticSeriesForExperiment.py), [Christofides](./ChristofidesAlgorithm.py), [Nearest Neighbor](./NearestNeighborHeuristics.py), [Simulated Annealing](./SimulatedAnnealing.py), [Ant Colony Optimization](./AntColonyOptimization.py), [Genetic Algorithm](./TSPGeneticAlgorithm.py), and D-Wave's LeapHybridNLSampler are tested against each other on the [Euclidean Traveling Salesman Problem](./EuclideanTSPHeuristics.py), where n points in two dimensions are [randomly generated](./RandomPointsGenerator.py), where every coordinate is an integer at least 0 and at most 5000. For more experimental data in the second phase, the average difference, variance of differences, and standard deviation of differences between consecutive sorted edge weights are [computed](./ArithmeticSeriesMeasurement.py).
 
 ## Code Implementation Sources
