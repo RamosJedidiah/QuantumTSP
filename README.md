@@ -48,3 +48,12 @@ Simulated Annealing runs until it reaches the stopping temperature or stopping i
 Ant Colony Optimization runs with 20 ants for 10 generations. In the first generation, the first three ants are initialized with the best initial tour from the classical algorithm for arithmetic series, the Christofides algorithm, and the Nearest Neighbor algorithm, where the sequence of vertices is rotated for some ants. For some variables in the code, errors can happen if their values become too large, so they are set to the maximum float value in those cases.
 
 Genetic Algorithm runs with n chromosomes for 100 generations. In the first generation, the first three chromosomes are initialized with the best initial tour from the classical algorithm for arithmetic series, the Christofides algorithm, and the Nearest Neighbor algorithm, where the sequence of vertices is rotated for some chromosomes.
+
+## Experimental Data
+Experimental results are available in the following files in the form of original text files and organized spreadsheets.
+**Special TSP (Arithmetic Series):**
+- Text file of arithmetic series TSP data
+- [Spreadsheet of arithmetic series TSP data](./Experimental Data/Arithmetic Series TSP Data.xlsx)
+**Euclidean TSP**
+- Text file of Euclidean TSP data
+- [Spreadsheet of Euclidean TSP data](./Experimental Data/Euclidean TSP Data.xlsx)
