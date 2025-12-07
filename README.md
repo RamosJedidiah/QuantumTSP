@@ -53,9 +53,9 @@ Genetic Algorithm runs with n chromosomes for 100 generations. In the first gene
 Experimental results are available in the following files in the form of original text files and organized spreadsheets.
 
 **Arithmetic Series TSP:**
-- Text file of arithmetic series TSP data
+- [Text file of arithmetic series TSP data](/ExperimentalData/ArithmeticSeriesTSPData.txt)
 - [Spreadsheet of arithmetic series TSP data](/ExperimentalData/ArithmeticSeriesTSPData.xlsx)
 
 **Euclidean TSP**
-- Text file of Euclidean TSP data
+- [Text file of Euclidean TSP data](/ExperimentalData/EuclideanTSPData.xlsx)
 - [Spreadsheet of Euclidean TSP data](/ExperimentalData/EuclideanTSPData.xlsx)
