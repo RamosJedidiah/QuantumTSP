@@ -19,8 +19,8 @@ In the [second phase](/quantumtsp.py), the [classical algorithm](/EuclideanTSPAr
 ## Code Implementations
 The code implementations for D-Wave, Prim's algorithm (for [1-tree lower bounds](/OneTreeLowerBound.py)), the Christofides algorithm, Simulated Annealing, Ant Colony Optimization, and Genetic Algorithm are from the following GitHub repositories.
 
-**DWAVE Traveling Salesperson Example:**
-https://docs.ocean.dwavesys.com/en/stable/examples/nl_tsp.html
+**D-Wave Traveling Salesperson Example:**
+https://docs.dwavequantum.com/en/latest/industrial_optimization/example_nl_tsp.html
 
 **Prim's Algorithm:**
 https://www.w3schools.com/dsa/dsa_algo_mst_prim.php
